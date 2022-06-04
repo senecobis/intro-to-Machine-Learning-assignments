@@ -5,8 +5,8 @@ Main purpose of this repository is to store and share mandatory, graded exercise
 
 1b) Non_lin_features_lin_regression
 
-2)
+2) Regression and Classification for ospedalized patients
 
-3)
+3) Food taste classifier from images
 
-4)
+4) Predictor of homo-lumu gap for newly discovered molecules (solar panels)
