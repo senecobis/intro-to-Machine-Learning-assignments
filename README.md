@@ -1,5 +1,5 @@
 # intro-to-Machine-Learning-assignments
-Main purpose of this repository is to store and share mandatory, graded exercises of the academic year 2021-2022 (spring semester ) 
+Main purpose of this repository is to store and share, graded exercises of Introduction to machine learning ETH 2022 spring semester
 
 1.a) CV_for_ridge_regression
 
